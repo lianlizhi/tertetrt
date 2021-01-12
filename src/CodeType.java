@@ -6,7 +6,7 @@ import java.util.Map;
 public enum CodeType {
 	
 	
-	tempCode("01","临时code"),
+	tempCode("01","临时cod1111111111111112e"),
 	
 	newCode("02","新code1111"),
 	
