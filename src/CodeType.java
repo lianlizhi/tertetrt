@@ -8,7 +8,7 @@ public enum CodeType {
 	
 	tempCode("01","临时code"),
 	
-	newCode("02","新code"),
+	newCode("02","新code1111"),
 	
 	oldCode("03","旧coe"),
 	otherCode("99","其他code") ;
